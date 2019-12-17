@@ -1,6 +1,6 @@
 name: loading_more_listview
-description: A simple LoadingMore ListView
-version: 1.0.0
+description: A Simple Flutter ListView Widget with an Indicator at the end of it and a Callback when users Scroll toward the end of the List.
+version: 1.0.1
 author: Ahmad Givekesh <ahmadgivekesh@gmail.com>
 homepage: https://github.com/jinxul/loading-more-listview/
 

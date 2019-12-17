@@ -2,6 +2,8 @@
 
 A Simple LoadingMore ListView
 
+[![pub package](https://img.shields.io/pub/v/loading_more_listview.svg)](https://pub.dartlang.org/packages/loading_more_listview) [![GitHub license](https://img.shields.io/github/license/jinxul/loading-more-listview)](https://github.com/jinxul/loading-more-listview/blob/master/LICENSE)
+
 ## Use
 
 * add library to your pubspec.yaml
@@ -9,7 +11,7 @@ A Simple LoadingMore ListView
 ```yaml
 
 dependencies:
-  loading_more_listview: 1.0.0
+  loading_more_listview: 1.0.1
 
 ```  
 * import library in dart file
